@@ -1,0 +1,6 @@
+{
+    "scope": "x_snc_hello_partha",
+    "scopeId": "ceac98e82beb4b10dbfcf0adf291bf81",
+    "name": "Hello Partha",
+    "tsconfigPath": "./src/server/tsconfig.json"
+}
