@@ -13,6 +13,7 @@
         "module": "None",
         "types": []
     },
+    "files": [],
     "include": [
         "./**/*.client.js",
         "../@types/servicenow/*.client.d.ts"

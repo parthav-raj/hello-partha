@@ -11,6 +11,7 @@
         "module": "None",
         "types": []
     },
+    "files": [],
     "include": [
         "./**/*.server.js",
         "../@types/servicenow/*.server.d.ts"
